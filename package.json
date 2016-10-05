@@ -1,0 +1,29 @@
+{
+  "name": "postcss-great-scott",
+  "version": "1.0.0",
+  "description": "Roads? Where we're going, we don't need roads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecarlisle/postcss-great-scott.git"
+  },
+  "author": "Eric Carlisle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecarlisle/postcss-great-scott/issues"
+  },
+  "homepage": "https://github.com/ecarlisle/postcss-great-scott#readme",
+  "devDependencies": {
+    "cssnano": "^3.7.6",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.2.0",
+    "normalize.css": "^5.0.0",
+    "postcss-cssnext": "^2.8.0",
+    "postcss-import": "^8.1.2",
+    "postcss-utils": "^1.0.2",
+    "precss": "^1.4.0"
+  }
+}
